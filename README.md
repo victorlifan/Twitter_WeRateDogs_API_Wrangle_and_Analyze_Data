@@ -40,7 +40,7 @@ Wrangling result, ready to analyze data in csv file.
 > + tweepy
 > + json
 > + requests
-> + Google Docs
++ Google Docs
 ## Files used
 + `twitter-archive-enhanced-2.csv`: The WeRateDogs Twitter archive.
 + `image_predictions.tsv`: The tweet image predictions, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network.
@@ -48,6 +48,6 @@ Wrangling result, ready to analyze data in csv file.
 
 ## Credits
 + Data provided by:
- + [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
- + Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs).
+    + [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+    + Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs).
 + Instruction and assist: [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
