@@ -51,3 +51,4 @@ Wrangling result, ready to analyze data in csv file.
     + [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
     + Twitter user [@dog_rates](https://twitter.com/dog_rates), also known as [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs).
 + Instruction and assist: [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
++ Photo from [`Act Report.pdf`](https://github.com/victorlifan/Twitter_WeRateDogs_API_Wrangle_and_Analyze_Data/blob/master/reports/Act%20Report.pdf): [Dog learn: Golden Retriever vs Saluki](https://www.dog-learn.com/breed-vs-breed/golden-retriever-vs-saluki/)
